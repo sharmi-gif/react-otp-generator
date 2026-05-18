@@ -1,0 +1,52 @@
+
+body{
+  margin:0;
+  padding:0;
+  text-align: center;
+  margin-top: 30px;
+  align-items: center;
+  justify-content: center;
+  display:flex;
+  width:100%;
+}
+
+input {
+  width:100%;
+  padding: 15px;
+  font-size: 15px;
+  text-align: center;
+  border: 1px solid black;
+  box-sizing:border-box;
+}
+
+.container{
+  width:300px;
+  padding:30px;
+  display: flex;
+  flex-direction: column; 
+  gap: 20px;
+  align-items: center;
+  
+}
+.validate-btn{
+ 
+width:100%;
+padding:15px;
+align-items:center;
+gap:20px;
+justify-content: center;
+color:rgb(225, 22, 22);
+background-color: rgb(230, 238, 237);
+margin-top:20px;
+ border: 1px solid black;
+}
+.Generate-btn{
+  width:100%;
+padding:15px;
+align-items:center;
+gap:20px;
+color:rgb(31, 146, 177);
+background-color: rgb(229, 255, 0);
+text-align: center;
+ border: 1px solid black;
+}
