@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-otp-generator/static/css/main.96e84490.css",
+    "main.js": "/react-otp-generator/static/js/main.68fcf14e.js",
+    "static/js/453.5eb8afb3.chunk.js": "/react-otp-generator/static/js/453.5eb8afb3.chunk.js",
+    "static/media/logo.svg": "/react-otp-generator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-otp-generator/index.html",
+    "main.96e84490.css.map": "/react-otp-generator/static/css/main.96e84490.css.map",
+    "main.68fcf14e.js.map": "/react-otp-generator/static/js/main.68fcf14e.js.map",
+    "453.5eb8afb3.chunk.js.map": "/react-otp-generator/static/js/453.5eb8afb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96e84490.css",
+    "static/js/main.68fcf14e.js"
+  ]
+}
